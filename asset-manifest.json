@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jiujitsutimer/static/css/main.9bc324b5.chunk.css",
+    "main.js": "/jiujitsutimer/static/js/main.bccf879b.chunk.js",
+    "main.js.map": "/jiujitsutimer/static/js/main.bccf879b.chunk.js.map",
+    "runtime-main.js": "/jiujitsutimer/static/js/runtime-main.b6b7181e.js",
+    "runtime-main.js.map": "/jiujitsutimer/static/js/runtime-main.b6b7181e.js.map",
+    "static/js/2.a2b4a8e3.chunk.js": "/jiujitsutimer/static/js/2.a2b4a8e3.chunk.js",
+    "static/js/2.a2b4a8e3.chunk.js.map": "/jiujitsutimer/static/js/2.a2b4a8e3.chunk.js.map",
+    "index.html": "/jiujitsutimer/index.html",
+    "precache-manifest.6a7e66a15c9ede84b9955439861dda98.js": "/jiujitsutimer/precache-manifest.6a7e66a15c9ede84b9955439861dda98.js",
+    "service-worker.js": "/jiujitsutimer/service-worker.js",
+    "static/css/main.9bc324b5.chunk.css.map": "/jiujitsutimer/static/css/main.9bc324b5.chunk.css.map",
+    "static/js/2.a2b4a8e3.chunk.js.LICENSE.txt": "/jiujitsutimer/static/js/2.a2b4a8e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b7181e.js",
+    "static/js/2.a2b4a8e3.chunk.js",
+    "static/css/main.9bc324b5.chunk.css",
+    "static/js/main.bccf879b.chunk.js"
+  ]
+}
